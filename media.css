@@ -1,0 +1,43 @@
+@media screen and (max-width: 1485px){
+    .offers {
+        width: 65%;
+    }
+}
+@media screen and (max-width: 1373px){
+    .offers {
+        width: 72%;
+    }
+}
+@media screen and (max-width: 1250px){
+    .header {
+        width: 90%;
+    }
+    .offers {
+        width: 82%;
+    }
+    .Destination{
+        width: 55%;
+    }
+}
+@media  screen and (max-width: 1100px) {
+    header {
+        width: 90%;
+    }
+    header .trip_bx .search_bx {
+        width: 60%;
+    }
+    header .trip_bx travel_bx .cards {
+        overflow: auto;
+    }
+    header .trip_bx .travel_bx .cards .card {
+        min-width: 190px;
+        margin-right: 10px;
+    }
+    .offers {
+        width: 70%;
+    }
+    .Destination {
+        width: 75%;
+    }
+    
+}
